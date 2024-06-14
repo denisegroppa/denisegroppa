@@ -1,4 +1,4 @@
-<img src="https://scontent.faep9-3.fna.fbcdn.net/v/t39.30808-6/370005935_790739216388650_2958954999941219380_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHN_QnBs_nK5cLmQlCHPjBiNAlrJ3UPySc0CWsndQ_JJ5yBUBaIYJQA35tJxbHt5cMFECkVUYDqk88jtTPC4BDK&_nc_ohc=iMifQDnajcQQ7kNvgHWj6B4&_nc_ht=scontent.faep9-3.fna&oh=00_AYCeGVd1ICzyiROLkHBziW8l1YFpe15R3husQmqIOaULxg&oe=667174A1" height="300">
+<img src="https://github.com/denisegroppa/denisegroppa/blob/main/Portadas_LINKEDIN%201128X191.png">
 
 # ¡Bienvenido a mi perfil! <b> Soy Denise Groppa, IT recruiter en Randstad Digital </b>  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f680.gif" width="30px">  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
